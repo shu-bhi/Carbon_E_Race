@@ -18,8 +18,7 @@ Carbon-E-Race is an innovative application designed to make carbon footprint tra
 3. **Mapping Integration**: Leverage Map APIs to visualize and understand the geographical impact.
 
 ##ScreenShots📷
-![image]()
-<img src="[drawing.jpg](https://github.com/Aviral-3/Carbon-E-Race/assets/63746541/f2925c4a-35fb-4e27-96fc-ae6e7808414a)" alt="drawing" height="50" width="50"/>
+![image](https://github.com/Aviral-3/Carbon-E-Race/assets/63746541/f2925c4a-35fb-4e27-96fc-ae6e7808414a)
 ![image](https://github.com/Aviral-3/Carbon-E-Race/assets/63746541/377e1b5c-bc9d-40be-9dd8-8ca88d7a3c97)
 ![image](https://github.com/Aviral-3/Carbon-E-Race/assets/63746541/d5b529ff-a697-4cdd-a9c9-7522c2d81cd4)
 ![image](https://github.com/Aviral-3/Carbon-E-Race/assets/63746541/677871c3-20ca-4538-93a5-69078681b001)
