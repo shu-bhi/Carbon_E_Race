@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Leaderboard">
+
+    <TextView
+        android:id="@+id/sixthplace"
+        android:layout_width="286dp"
+        android:layout_height="22dp"
+        android:layout_marginTop="60dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/fourthplace" />
+
+    <TextView
+        android:id="@+id/seventhplace"
+        android:layout_width="286dp"
+        android:layout_height="22dp"
+        android:layout_marginTop="104dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/fourthplace" />
+
+    <TextView
+        android:id="@+id/eighthplace"
+        android:layout_width="286dp"
+        android:layout_height="22dp"
+        android:layout_marginTop="148dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/fourthplace" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="#E0E0E0"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <Button
+            android:id="@+id/homeButton4"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:backgroundTint="#D3D3D3"
+            android:drawableTop="@drawable/ic_baseline_home_24"
+            android:text="Home"
+            android:textAlignment="center"
+            android:textColor="#949494"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            app:rippleColor="#00FFFFFF" />
+
+        <Button
+            android:id="@+id/foodButton4"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:backgroundTint="#D3D3D3"
+            android:drawableTop="@drawable/ic_baseline_fastfood_24"
+            android:text="Food"
+            android:textAlignment="center"
+            android:textColor="#949494"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            app:rippleColor="#00FFFFFF" />
+
+        <Button
+            android:id="@+id/travelButton4"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:backgroundTint="#D3D3D3"
+            android:drawableTop="@drawable/ic_baseline_directions_car_24"
+            android:text="Travel"
+            android:textAlignment="center"
+            android:textColor="#949494"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            app:rippleColor="#00FFFFFF" />
+
+        <Button
+            android:id="@+id/rankButton4"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:backgroundTint="#D3D3D3"
+            android:drawableTop="@drawable/ic_baseline_leaderboard_24_green"
+            android:text="rank"
+            android:textAlignment="center"
+            android:textColor="#72D672"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            app:rippleColor="#00FFFFFF" />
+
+        <Button
+            android:id="@+id/settingsButton4"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:backgroundTint="#D3D3D3"
+            android:drawableTop="@drawable/ic_baseline_settings_24"
+            android:text="Setting"
+            android:textAlignment="center"
+            android:textColor="#949494"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            app:rippleColor="#00FFFFFF" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/fifthplace"
+        android:layout_width="286dp"
+        android:layout_height="22dp"
+        android:layout_marginTop="22dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/fourthplace" />
+
+    <TextView
+        android:id="@+id/fourthplace"
+        android:layout_width="286dp"
+        android:layout_height="22dp"
+        android:layout_marginTop="22dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/thirdplace" />
+
+    <TextView
+        android:id="@+id/thirdplace"
+        android:layout_width="286dp"
+        android:layout_height="22dp"
+        android:layout_marginTop="22dp"
+        android:textColor="#cd7f32"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/secondplace" />
+
+    <TextView
+        android:id="@+id/secondplace"
+        android:layout_width="286dp"
+        android:layout_height="22dp"
+        android:layout_marginTop="22dp"
+        android:textColor="#aaa9ad"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/firstplace" />
+
+    <EditText
+        android:id="@+id/room"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="League: None"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/createleague"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="38dp"
+        android:backgroundTint="#72D672"
+        android:text="Start"
+        app:layout_constraintEnd_toStartOf="@+id/leaveleague"
+        app:layout_constraintTop_toBottomOf="@+id/leaguename" />
+
+    <Button
+        android:id="@+id/joinleague"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="38dp"
+        android:layout_marginTop="24dp"
+        android:text="Join"
+        android:backgroundTint="#72D672"
+        app:layout_constraintStart_toEndOf="@+id/leaveleague"
+        app:layout_constraintTop_toBottomOf="@+id/leaguename" />
+
+    <EditText
+        android:id="@+id/leaguename"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:layout_marginBottom="24dp"
+        android:ems="10"
+        android:hint="Enter league name"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        app:layout_constraintBottom_toTopOf="@+id/leaveleague"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/room"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/boardtext"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:layout_marginTop="24dp"
+        android:text="Leaderboard"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/leaveleague" />
+
+    <Button
+        android:id="@+id/leaveleague"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="96dp"
+        android:layout_marginEnd="36dp"
+        android:backgroundTint="#72D672"
+        android:text="Leave"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.56"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/room" />
+
+    <TextView
+        android:id="@+id/firstplace"
+        android:layout_width="286dp"
+        android:layout_height="22dp"
+        android:layout_marginTop="16dp"
+        android:textColor="#d4af37"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/boardtext" />
+
+    <TextView
+        android:id="@+id/error"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Error: League name is either not valid or already in use"
+        android:textColor="#CC0202"
+        android:drawableLeft="@drawable/ic_baseline_error_outline_24"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/leaguename"
+        tools:visibility="invisible" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
