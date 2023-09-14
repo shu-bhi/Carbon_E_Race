@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.example.carbone_raceapplication.app-mergeDebugResources-35:/layout/content_food.xml",
+        "source": "com.example.carbone_raceapplication.app-main-38:/layout/content_food.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "com.example.carbone_raceapplication.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-mergeDebugResources-35:/layout/activity_maps.xml",
+        "source": "com.example.carbone_raceapplication.app-main-38:/layout/activity_maps.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-mergeDebugResources-35:/layout/fragment_second.xml",
+        "source": "com.example.carbone_raceapplication.app-main-38:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-mergeDebugResources-35:/layout/fragment_first.xml",
+        "source": "com.example.carbone_raceapplication.app-main-38:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-mergeDebugResources-35:/layout/activity_leaderboard.xml",
+        "source": "com.example.carbone_raceapplication.app-main-38:/layout/activity_leaderboard.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-mergeDebugResources-35:/layout/activity_settings.xml",
+        "source": "com.example.carbone_raceapplication.app-main-38:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-mergeDebugResources-35:/layout/activity_food.xml",
+        "source": "com.example.carbone_raceapplication.app-main-38:/layout/activity_food.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-mergeDebugResources-35:/layout/activity_transportation.xml",
+        "source": "com.example.carbone_raceapplication.app-main-38:/layout/activity_transportation.xml"
+    }
+]

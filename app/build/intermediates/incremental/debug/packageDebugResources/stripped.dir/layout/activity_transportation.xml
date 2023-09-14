@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Transportation">
+
+    <EditText
+        android:id="@+id/et_source"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:background="@android:drawable/editbox_background"
+        android:hint="Enter Source Location"
+        android:padding="12dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/et_destination"
+        android:layout_width="match_parent"
+        android:layout_height="67dp"
+        android:layout_marginTop="220dp"
+        android:background="@android:drawable/editbox_background"
+        android:hint="Enter Destination"
+        android:padding="12dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btn_distance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:layout_marginStart="135dp"
+        android:layout_marginTop="310dp"
+        android:text="Get Distance"
+        android:textAllCaps="false"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/text_distance"
+        android:layout_width="344dp"
+        android:layout_height="149dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="380dp"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/bt_track"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:layout_marginStart="125dp"
+        android:layout_marginTop="550dp"
+        android:text="display track"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/carbonTitle3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/roboto_condensed_bold"
+        android:text="Carbon e-Race"
+        android:textColor="#72D672"
+        android:textSize="34sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="#E0E0E0"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <Button
+            android:id="@+id/homeButton3"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:backgroundTint="#D3D3D3"
+            android:drawableTop="@drawable/ic_baseline_home_24"
+            android:text="Home"
+            android:textAlignment="center"
+            android:textColor="#949494"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            app:rippleColor="#00FFFFFF" />
+
+        <Button
+            android:id="@+id/foodButton3"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:backgroundTint="#D3D3D3"
+            android:drawableTop="@drawable/ic_baseline_fastfood_24"
+            android:text="Food"
+            android:textAlignment="center"
+            android:textColor="#949494"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            app:rippleColor="#00FFFFFF" />
+
+        <Button
+            android:id="@+id/travelButton3"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:backgroundTint="#D3D3D3"
+            android:drawableTop="@drawable/ic_baseline_directions_car_24_green"
+            android:text="Travel"
+            android:textAlignment="center"
+            android:textColor="#72D672"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            app:rippleColor="#00FFFFFF" />
+
+        <Button
+            android:id="@+id/rankButton3"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:backgroundTint="#D3D3D3"
+            android:drawableTop="@drawable/ic_baseline_leaderboard_24"
+            android:text="rank"
+            android:textAlignment="center"
+            android:textColor="#949494"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            app:rippleColor="#00FFFFFF" />
+
+        <Button
+            android:id="@+id/settingsButton3"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:backgroundTint="#D3D3D3"
+            android:drawableTop="@drawable/ic_baseline_settings_24"
+            android:text="Setting"
+            android:textAlignment="center"
+            android:textColor="#949494"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            app:rippleColor="#00FFFFFF" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/travelTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="Travel"
+        android:textSize="34sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/carbonTitle3" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

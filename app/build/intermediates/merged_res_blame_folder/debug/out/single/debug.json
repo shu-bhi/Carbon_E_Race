@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/xml_backup_rules.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/drawable_green_foot.png.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/drawable/green_foot.png"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/layout_fragment_second.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/layout_activity_main.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/layout_activity_maps.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/layout/activity_maps.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/drawable_ic_baseline_error_outline_24.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/drawable/ic_baseline_error_outline_24.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/layout_fragment_first.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/navigation_nav_graph.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-pngs-31:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/drawable_circle.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/drawable/circle.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/drawable_ic_baseline_home_24.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/drawable/ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/drawable_ic_baseline_settings_24.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/drawable/ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/font_roboto_thin.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/font/roboto_thin.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/font_arbutus.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/font/arbutus.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/drawable_ic_baseline_leaderboard_24_green.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/drawable/ic_baseline_leaderboard_24_green.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/xml_activity_food_scene.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/xml/activity_food_scene.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/drawable_ic_baseline_fastfood_24_green.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/drawable/ic_baseline_fastfood_24_green.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/layout_activity_leaderboard.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/layout/activity_leaderboard.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/drawable_ic_baseline_leaderboard_24.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/drawable/ic_baseline_leaderboard_24.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/xml_activity_food_scene2.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/xml/activity_food_scene2.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/font_imprima.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/font/imprima.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/drawable_ic_baseline_directions_car_24.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/drawable/ic_baseline_directions_car_24.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/layout_activity_transportation.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/layout/activity_transportation.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/drawable_ic_baseline_fastfood_24.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/drawable/ic_baseline_fastfood_24.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/drawable_ic_baseline_settings_24_green.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/drawable/ic_baseline_settings_24_green.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/drawable_ic_baseline_home_24_green.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/drawable/ic_baseline_home_24_green.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/layout_activity_settings.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/layout_content_food.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/layout/content_food.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/layout_activity_food.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/layout/activity_food.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/font_roboto_condensed_bold.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/font/roboto_condensed_bold.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/font_aldrich.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/font/aldrich.xml"
+    },
+    {
+        "merged": "com.example.carbone_raceapplication.app-merged_res-36:/drawable_ic_baseline_directions_car_24_green.xml.flat",
+        "source": "com.example.carbone_raceapplication.app-main-38:/drawable/ic_baseline_directions_car_24_green.xml"
+    }
+]
